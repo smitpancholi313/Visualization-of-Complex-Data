@@ -177,6 +177,57 @@
     <li>Certain neighborhoods, like Manhattan, have higher median prices and a broader price range, while the Bronx shows less variability.</li>
 </ul>
 
+<h2>Airbnb Dashboard</h2>
+
+<p>This dashboard is built using the Dash framework and deployed on Google Cloud Platform (GCP). It provides interactive insights into the Airbnb ecosystem.</p>
+
+<h2>Dashboard Overview</h2>
+<ul>
+    <li><strong>GCP Dashboard Link:</strong> <a href="https://dashapp-zxxyphmjaq-ue.a.run.app/">Airbnb Dashboard</a></li>
+    <li>Developed with Dash, allowing for interactive, data-driven web applications using Python.</li>
+    <li>Multiple tabs provide distinct functions and insights.</li>
+</ul>
+
+<h2>Tabs Overview</h2>
+
+<h3>1. Stays Tab</h3>
+<ul>
+    <li>Explore and filter Airbnb listings based on neighborhood, room type, and price range.</li>
+    <li>Features interactive dropdowns, radio buttons, and a price range slider.</li>
+    <li>Dynamic map visualization of listings, color-coded by neighborhood.</li>
+</ul>
+
+<h3>2. Normality Tests & Outlier Detection Tab</h3>
+<ul>
+    <li>Conduct normality testing and outlier analysis to ensure data accuracy.</li>
+    <li>Interactive visualizations and statistical tests for data distribution evaluation.</li>
+    <li>Components include loading indicators and download options for analysis results.</li>
+</ul>
+
+<h3>3. Statistical Analysis Tab</h3>
+<ul>
+    <li>Visualize distributions and densities of various dataset features using KDE graphs.</li>
+    <li>Interactive dropdown for selecting features to analyze.</li>
+    <li>Loading indicators enhance user experience during data processing.</li>
+</ul>
+
+<h3>4. Accommodation Trends Tab</h3>
+<ul>
+    <li>Explore pricing distributions across different accommodation types.</li>
+    <li>Users can select multiple room types to update visualizations dynamically.</li>
+    <li>Box plots illustrate price distributions, aiding in comparative analysis.</li>
+</ul>
+
+<h3>5. Sign Up Tab</h3>
+<ul>
+    <li>User registration interface for creating accounts and accessing personalized features.</li>
+    <li>Input fields for essential information with validation messages for user guidance.</li>
+    <li>Confirmation dialog upon successful sign-up submission.</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>This Airbnb dashboard leverages the power of Dash and GCP to provide users with insightful, interactive analysis of Airbnb data, enhancing the overall user experience.</p>
+
 
 
 </body>
