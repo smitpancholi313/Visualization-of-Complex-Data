@@ -10,6 +10,8 @@
 
 <h2>Overview</h2>
 <p>This study analyzes Airbnb listings in New York City, utilizing a dataset of 102,600 properties.</p>
+    <li><strong>GCP Dashboard Link:</strong> <a href="https://dashapp-zxxyphmjaq-ue.a.run.app/">Airbnb Dashboard</a></li>
+
 
 <h2>Introduction</h2>
 <p>Since its inception in 2008, Airbnb has transformed the travel landscape. This report focuses on New York City, where Airbnb has significantly impacted urban travel.</p>
