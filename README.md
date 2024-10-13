@@ -239,7 +239,7 @@
         </ul>
     </li>
 
-    <li><strong>Insights from Graphical Analysis:</strong>
+<li><strong>Insights from Graphical Analysis:</strong>
         <ul>
             <li>PCA highlighted data variance, streamlining complex datasets for analysis.</li>
             <li>Normality tests identified areas needing alternative statistical approaches.</li>
@@ -247,7 +247,7 @@
         </ul>
     </li>
 
-    <li><strong>Utility of the Dashboard:</strong>
+<li><strong>Utility of the Dashboard:</strong>
         <ul>
             <li>Interactive elements allow real-time data manipulation and customization.</li>
             <li>Transforms numerical data into visual stories for easier understanding.</li>
@@ -255,7 +255,7 @@
         </ul>
     </li>
 
-    <li><strong>User-Friendly Assessment:</strong>
+<li><strong>User-Friendly Assessment:</strong>
         <ul>
             <li>Intuitive design ensures accessibility for diverse users.</li>
             <li>Dynamic map and multi-selection capabilities enhance user experience.</li>
@@ -263,7 +263,7 @@
         </ul>
     </li>
 
-    <li><strong>Functionality:</strong>
+<li><strong>Functionality:</strong>
         <ul>
             <li>Multiple tabs cater to various analytical needs, from statistical analyses to trend exploration.</li>
             <li>Offers a comprehensive suite of tools for engaging with the Airbnb marketplace.</li>
@@ -271,7 +271,7 @@
         </ul>
     </li>
 
-    <li><strong>Overall Impact:</strong>
+   <li><strong>Overall Impact:</strong>
         <ul>
             <li>The dashboard exemplifies the power of interactive data visualization.</li>
             <li>Holistic design approach addresses varied analytical requirements effectively.</li>
@@ -279,6 +279,7 @@
         </ul>
     </li>
 </ul>
+
 
 </body>
 </html>
