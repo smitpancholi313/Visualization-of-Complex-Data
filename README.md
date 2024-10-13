@@ -51,6 +51,16 @@
     <li>Normalizing review data and creating a composite 'Performance Score' for holistic analysis.</li>
 </ul>
 
+<h2>Data Analysis and Testing</h2>
+<p>The analysis involved several key steps to ensure data integrity and extract meaningful insights. Outlier detection was conducted on critical columns like "reviews per month" and "availability 365," identifying and removing extreme values to refine the dataset. This step was crucial for accurate representation and analysis. Principal Component Analysis (PCA) was then performed to reduce dimensionality, improving interpretability and maintaining 97% of the dataset's variance while addressing multicollinearity.</p>
+
+<p>Additionally, normality tests using the Kolmogorov-Smirnov and D'Agostino's K-squared tests revealed that the "days_booked" feature significantly deviates from normal distribution, indicating potential challenges for parametric statistical methods. The Pearson correlation coefficient analysis further highlighted relationships among key metrics:</p>
+<ul>
+    <li>Strong positive correlation (0.94) between listing popularity and reviews count.</li>
+    <li>Weak correlation (0.11) between listing popularity and occupancy rate.</li>
+    <li>Moderate correlation (0.66) between occupancy rate and performance score.</li>
+</ul>
+
 
 
 </body>
