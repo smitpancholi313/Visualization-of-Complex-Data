@@ -61,6 +61,17 @@
     <li>Moderate correlation (0.66) between occupancy rate and performance score.</li>
 </ul>
 
+<h2>Statistics</h2>
+<p>The Kernel Density Estimate (KDE) analysis visualizes the distribution of key variables from the Airbnb dataset, including Host Activity Score, occupancy rate, number of reviews, and listing popularity. Key observations include:</p>
+<ul>
+    <li>Host Activity Score: Wide distribution with a mean of 23.96, indicating many hosts are less active, while a few are highly engaged (scores up to 1660).</li>
+    <li>Occupancy Rate: Mean of 4.72, suggesting most listings have low occupancy, with extreme values indicating possible overbooking.</li>
+    <li>Number of Reviews: Average of 32.28, with a positive skew and some listings receiving up to 1024 reviews.</li>
+    <li>Listing Popularity: Mean of 2.54, again skewed towards lower values but with notable outliers.</li>
+</ul>
+
+<p>Descriptive statistics further reveal insights into the dataset's variables, such as an average price of $626, with a standard deviation of $331 indicating significant variability. Monthly revenue averages around $8,875, highlighting the wide performance range among listings. Metrics like review impact score and host efficiency also show high variability, indicating potential outliers and diverse host engagement levels.</p>
+
 
 
 </body>
