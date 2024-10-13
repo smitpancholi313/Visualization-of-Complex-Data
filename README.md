@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
 </head>
 <body>
 
-<h1>Project Title</h1>
+<h1>AirBnb Trends Analysis</h1>
 
 <h2>Overview</h2>
 <p>This study analyzes Airbnb listings in New York City, utilizing a dataset of 102,600 properties.</p>
