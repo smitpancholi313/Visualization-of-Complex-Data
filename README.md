@@ -32,6 +32,26 @@
 
 <p>Key dependent variables are 'price' and 'number of reviews', influenced by independent variables such as 'room type' and 'neighbourhood group'. Understanding these interactions is crucial for optimizing pricing, enhancing customer satisfaction, and aligning supply with demand in New York City's competitive hospitality landscape. This dataset serves as a valuable resource for businesses and policymakers alike, enabling deeper insights into Airbnb's impact on travel and urban economics.</p>
 
+<h2>Data Cleaning and Feature Engineering</h2>
+<p>The data cleaning process was meticulously conducted to ensure the dataset's integrity and readiness for analysis. Key steps included:</p>
+<ul>
+    <li>Addressing and removing null values to safeguard the dataset.</li>
+    <li>Eliminating irrelevant columns such as 'license' and 'house_rules'.</li>
+    <li>Removing duplicate records to maintain accuracy.</li>
+    <li>Renaming columns for uniformity, converting to lowercase, and replacing spaces with underscores.</li>
+    <li>Cleaning financial columns ('price' and 'service_fee') by removing non-numeric characters.</li>
+</ul>
+
+<p>Feature engineering introduced new metrics for deeper insights, including:</p>
+<ul>
+    <li>Converting 'last_review' to datetime format for temporal analysis.</li>
+    <li>Calculating 'Monthly Revenue', 'Occupancy Rate', and 'Average Daily Rate (ADR)'.</li>
+    <li>Creating 'Review Impact Score' and 'Seasonal Booking' categories.</li>
+    <li>Developing metrics like 'Host Efficiency' and 'Host Activity Score' to assess host performance.</li>
+    <li>Normalizing review data and creating a composite 'Performance Score' for holistic analysis.</li>
+</ul>
+
+
 
 </body>
 </html>
